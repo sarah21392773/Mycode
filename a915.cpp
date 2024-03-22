@@ -1,19 +1,18 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-struct Point{
+struct Point{       //利用struct結構，使程式碼更簡潔明瞭
     int x,y;
 };
-//
-bool comp(const Point &lhs, const Point &rhs){
+
+bool comp(const Point &lhs, const Point &rhs){     //排序標準
     if(lhs.x == rhs.x){
         return lhs.y < rhs.y;
     }
     else {
-        return lhs.x < rhs.x;     //�Yreturn 1�A�h�Ĥ@�ӰѼƴN�ƫe��
+        return lhs.x < rhs.x;     //若return 1，則第一個參數就排前面
     }
 }
-//
 
 int main(){
     int N=0;
@@ -22,7 +21,6 @@ int main(){
     for (int i=0;i<N;i++){
         cin >> arr[i].x >> arr[i].y;
     }
-    //selection(arr,N);
     sort(arr,arr+N,comp);
     for(int i=0;i<N;i++){
         cout << arr[i].x << " " << arr[i].y;
