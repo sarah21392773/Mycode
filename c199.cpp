@@ -5,7 +5,7 @@ int main() {
     int n=0;
     while(cin >> n){
 
-        int m[n+2],num=0;
+        int m[n+2],num=0;        //用圍牆戰略
         m[0]=10001;
         m[n+1]=10001;
 
