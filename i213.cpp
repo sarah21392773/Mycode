@@ -2,9 +2,11 @@
 using namespace std;
 
 int main(){
+    
     int N,k;
     cin >> N;
     stack<int>v;
+    
     for(int i=0;i<N;i++){
         cin >> k;
         if(k==1){
@@ -20,5 +22,6 @@ int main(){
             if(!v.empty()) v.pop();
         }
     }
+    
 return 0;
 }
