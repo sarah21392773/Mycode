@@ -11,7 +11,7 @@ int main(){
             cout << "1" << endl;
         }
         else{
-            cout << "0" << endl;       //反之，後者勝
+            cout << "0" << endl;       //若aa大於報數範圍，則後者勝
         }
     }
 return 0;
