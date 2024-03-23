@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int N;
+    
     while(cin >> N){
         for(int i=0;i<N;i++){
             int k,a=0;
@@ -32,5 +33,6 @@ int main(){
         }
         cout << endl;
     }
+    
 return 0;
 }
