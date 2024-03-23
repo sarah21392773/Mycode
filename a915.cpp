@@ -6,7 +6,7 @@ struct Point{       //利用struct結構，使程式碼更簡潔明瞭
 };
 
 bool comp(const Point &lhs, const Point &rhs){     //排序標準
-    if(lhs.x == rhs.x){
+    if(lhs.x == rhs.x){                    //x相等時，y小的排前面
         return lhs.y < rhs.y;
     }
     else {
