@@ -6,11 +6,11 @@ struct Point{       //利用struct結構，使程式碼更簡潔明瞭
 };
 
 bool comp(const Point &lhs, const Point &rhs){     //排序標準
-    if(lhs.x == rhs.x){                    //x相等時，y小的排前面
-        return lhs.y < rhs.y;
+    if(lhs.x == rhs.x){                    
+        return lhs.y < rhs.y;      //x相等時，y小的排前面
     }
     else {
-        return lhs.x < rhs.x;     //若return 1，則第一個參數就排前面
+        return lhs.x < rhs.x;      //若return 1，則第一個參數就排前面
     }
 }
 
