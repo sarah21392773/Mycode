@@ -1,8 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 struct TheBus{
     int hour,minute;
 };
+
 int main(){
     int n,h,m;
     while(cin >> n >> h >> m){
