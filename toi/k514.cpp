@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 int main(){
     int TheRate[4],N,need[4];       //TheRate是製藥比例，分成N包，need製藥所需包數
     while(cin >> TheRate[0] >> TheRate[1]>> TheRate[2] >> TheRate[3] >> N){
