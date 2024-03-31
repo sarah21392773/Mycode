@@ -1,0 +1,109 @@
+# **APCS f580. 2.骰子**
+
+*  題目連結：<br/>
+&emsp;[在這裏～～](https://zerojudge.tw/ShowProblem?problemid=f580)
+ 
+---
+
+## **理解題意**
+
+---
+
+### 操作方式
+* 將骰子向前轉(b=-1)
+![IMG_0281](https://hackmd.io/_uploads/Hyo2KyHyA.jpg)
+* 將骰子向右轉(b=-2)
+![IMG_0285](https://hackmd.io/_uploads/BJO2Xd8JC.jpg)
+* 交換兩顆骰子(a、b都是正數)
+![IMG_0283](https://hackmd.io/_uploads/SkFwoJrJR.jpg)
+### 目標
+全部操作完後，依序輸出每顆骰子頂部的點數
+* 範例:
+![IMG_0284](https://hackmd.io/_uploads/H1CZMgH1C.jpg)
+    * 範例一 輸出: 3 1 
+    * 範例二 輸出: 2 5 6
+    
+---    
+    
+## 解題
+
+---
+### 解題思路
+1. 用struct結構紀錄骰子頂部、前方、右方的點數，使程式的可讀性更高。
+2. 設一個struct一維陣列，用來記錄每一顆骰子狀態。
+3. 若a、b皆為正數，就用swap()交換兩顆骰子。
+4. 若b為-1，就將邊號a的骰子向前旋轉。
+5. 若b為-2，就將邊號a的骰子向右旋轉。
+6. 全部操作完後，依序輸出每顆骰子頂部的點數。
+:::danger 
+! ! ! 解題關鍵:<br/>
+&emsp;每一面骰子和對面的點數加給來都是7，所以在翻面的時候，只要用7-目前前方的點數，就能知道新的骰子狀態。
+:::
+* 例如:
+![IMG_0281](https://hackmd.io/_uploads/r1Xs7WHkR.jpg)
+    * 原本前方是4，右方是2，頂部是1，將骰子向前轉後，前方變成1 (原本的頂部)，右方是2 (不變)，頂部變成3 (7-原本前方點數4)。
+
+
+### 程式碼
+
+```c++=
+#include<bits/stdc++.h>
+using namespace std;
+
+struct TheDice{     //struct紀錄骰子頂部、前方和右方的點數
+    int top=1,right=2,infront=4;    //設定初始值
+};
+
+int main(){
+    int n,m;            //n是骰子數，m是操作次數
+    cin >> n >> m;
+    TheDice dice[n];    //陣列儲存每顆骰子的狀態
+    for(int i=0;i<m;i++){
+        int a,b;        //a為要被操作的骰子編號，b是操作動作
+        cin >> a >> b;
+        if(b>0){        //若b為正數，則交換編號a和編號b的骰子
+            swap(dice[a-1],dice[b-1]);
+        }
+        else if(b==-1){ //若b為-1，邊號a的骰子向前旋轉
+            int tem=dice[a-1].infront;
+            dice[a-1].infront=dice[a-1].top;
+            dice[a-1].top=7-tem;
+        }
+        else{           //若b為-2，邊號a的骰子向右旋轉
+            int tem=dice[a-1].right;
+            dice[a-1].right=dice[a-1].top;
+            dice[a-1].top=7-tem;
+        }
+    }
+    for(int i=0;i<n;i++){   //輸出每顆骰子頂部的點數
+        cout << dice[i].top << " ";
+    }
+    cout << endl;
+return 0;
+}
+```
+
+### 新的酷東西
+
+* swap用法
+    * 目的:<br/>
+        &emsp;交換兩個變數的值
+    * 語法:<br/>
+        &emsp;swap(a,b)
+    * 範例:<br/>
+        &emsp;(一.)<br/>
+        &emsp;&emsp;若 a=5 ， b=10<br/> 
+        &emsp;&emsp;swap(a,b)<br/>
+        &emsp;&emsp;a=10 b=5<br/>
+        &emsp;(二.)<br/>
+        &emsp;&emsp;若 arr[0]='a' , arr[1]='b'<br/>
+        &emsp;&emsp;swap(arr[0],arr[1])<br/>
+        &emsp;&emsp;arr[0]='b' arr[1]=''<br/>
+
+
+---
+## 廢話區
+---
+
+這一題我想很久，終於想出來怎麼寫了，我很開心，所以特地為它寫了這篇，哈哈~<br/>
+我覺得這一題的程式碼不會太難，主要是難在該怎麼判斷骰子前後左右點數是什麼，這一點我找很久才找到。一開始，我一直在觀察骰子的相鄰兩面有沒有什麼規律，是相加為一定數?相乘是定值?還是相差一樣的數字，但都找不到關聯性。後來因為段考後閒閒沒事做，直接拿了實體骰子起來看，東翻翻，西轉轉，終於被我看出來了!我發現骰子每面和對面的點數和是7，只要觀察出這點，之後很快就把程式寫出來啦!
