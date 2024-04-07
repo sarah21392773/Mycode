@@ -6,7 +6,7 @@ int main(){
 	cin.tie(0);
 	int prime[5000],t=0; //prime[5000]是2~2147483647中的質數,t是質數表中的索引 
 	bool b=1;   //若b=1，就代表是質數
-	for(int i=2;i<=sqrt(2147483647;i++){    
+	for(int i=2;i<=sqrt(2147483647);i++){    
 		b=1;
 		for(int j=2;j<=sqrt(i);j++){
 			if(i%j==0){     //若i能被j整除，就不是質數
