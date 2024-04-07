@@ -4,7 +4,7 @@ using namespace std;
 int where(int* arr,int x,int n){
     int s=0,e=n;            //s和e是尋找範圍的起點和終點(索引值)
     int i=(s+e)/2;          //i是中間的數
-    while(arr[i]!=x||s<=e){ //若還沒找到，或起點<=終點，就繼續尋找
+    while(arr[i]!=x&&s<=e){ //若還沒找到，且起點<=終點，就繼續尋找
         i=(s+e)/2;
         if(arr[i]==x){      //如果找到了，就回傳索引值+1
             return i+1;
