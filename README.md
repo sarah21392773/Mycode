@@ -5,12 +5,10 @@
 <details>
 <summary> 戳我 </summary>
 
-- [x] [c199. 爬山去 (Hiking)](https://zerojudge.tw/ShowProblem?problemid=c199)  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<sub>2024/2/26~2024/2/26</sub>
+- [x] [c199. 爬山去 (Hiking)](https://zerojudge.tw/ShowProblem?problemid=c199)　　　　　　　　　　<sub>2024/2/26~2024/2/26</sub>
 
 - [x] [e622. 虛擬寵物大師 (Master)](https://zerojudge.tw/ShowProblem?problemid=e622)
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<sub>2024/2/26~2024/2/26</sub>
+　　　　　　<sub>2024/2/26~2024/2/26</sub>
 
 - [x] [f515.	英文縮寫 (Abbreviation)](https://zerojudge.tw/ShowProblem?problemid=f515)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
