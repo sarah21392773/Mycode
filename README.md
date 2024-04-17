@@ -7,24 +7,15 @@
 
 - [x] [c199. 爬山去 (Hiking)](https://zerojudge.tw/ShowProblem?problemid=c199)　　　　　　　　　　<sub>2024/2/26~2024/2/26</sub>
 
-- [x] [e622. 虛擬寵物大師 (Master)](https://zerojudge.tw/ShowProblem?problemid=e622)
-　　　　　　<sub>2024/2/26~2024/2/26</sub>
+- [x] [e622. 虛擬寵物大師 (Master)](https://zerojudge.tw/ShowProblem?problemid=e622)　　　　　　　<sub>2024/2/26~2024/2/26</sub>
 
-- [x] [f515.	英文縮寫 (Abbreviation)](https://zerojudge.tw/ShowProblem?problemid=f515)
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<sub>2024/2/29~2024/2/29</sub>
+- [x] [f515.	英文縮寫 (Abbreviation)](https://zerojudge.tw/ShowProblem?problemid=f515)      　　　　　　<sub>2024/2/29~2024/2/29</sub>
 
-- [x] [e621. 免費停車 (Free Parking)](https://zerojudge.tw/ShowProblem?problemid=e621)
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<sub>2024/2/29~2024/2/29</sub>
+- [x] [e621. 免費停車 (Free Parking)](https://zerojudge.tw/ShowProblem?problemid=e621)　　　　　　<sub>2024/2/29~2024/2/29</sub>
 
-- [x] [f337.	同樂會 (Party)](https://zerojudge.tw/ShowProblem?problemid=f337)
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<sub>2024/2/29~2024/2/29</sub>
+- [x] [f337.	同樂會 (Party)](https://zerojudge.tw/ShowProblem?problemid=f337)　　　　　　　　　　　<sub>2024/2/29~2024/2/29</sub>
 
-- [x] [k516. 根號 (Sqrt)](https://zerojudge.tw/ShowProblem?problemid=k516)
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<sub>2024/3/1~2024/3/6</sub>
+- [x] [k516. 根號 (Sqrt)](https://zerojudge.tw/ShowProblem?problemid=k516)　　　　　　　　　　　　<sub>2024/3/1~2024/3/6</sub>
 
 - [x] [l919.	珠寶交易 (Jewel)](https://zerojudge.tw/ShowProblem?problemid=l919)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
