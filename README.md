@@ -64,6 +64,8 @@
 - [ ] [h083. 3. 數位占卜](https://zerojudge.tw/ShowProblem?problemid=h083)　　　　　　　　　　　<sub></sub>
 
 - [ ] [f581. 3. 圓環出口](https://zerojudge.tw/ShowProblem?problemid=f581)　　　　　　　　　　　<sub></sub>
+
+- [ ] [j123. 2. 運貨站](https://zerojudge.tw/ShowProblem?problemid=j123)
 </details>
 
 ## APCS練習網:
