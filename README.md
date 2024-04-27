@@ -90,7 +90,7 @@
 <details>
 <summary> 戳我 </summary>
   
-- [ ] [a565.	p&q的邂逅](https://zerojudge.tw/ShowProblem?problemid=a565)　　　　　　　　　　　<sub>2024/2/20~</sub>
+- [x] [a565.	p&q的邂逅](https://zerojudge.tw/ShowProblem?problemid=a565)　　　　　　　　　　　<sub>2024/2/20~2024/4/27</sub>
 
 - [x] [i213.	stack 練習](https://zerojudge.tw/ShowProblem?problemid=i213)　　　　　　　　　　　　<sub>2024/2/20~2024/2/20</sub>
 
