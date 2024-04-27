@@ -45,7 +45,7 @@
   
 - [x] [c290. 1.	秘密差](https://zerojudge.tw/ShowProblem?problemid=c290)　　　　　　　　　　　　<sub>2024/3/20~2024/3/23</sub>
 
-- [ ] [e289. 3. 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)　　　　　　　　　　<sub>2024/3/23~</sub>
+- [x] [e289. 3. 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)　　　　　　　　　　<sub>2024/3/23~2024/4/27</sub>
 
 - [x] [j605. 1.	程式考試](https://zerojudge.tw/ShowProblem?problemid=j605)　　　　　　　　　　　<sub>2024/3/27~2024/3/27</sub>
 
