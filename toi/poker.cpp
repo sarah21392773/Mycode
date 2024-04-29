@@ -9,7 +9,7 @@ int main(){
             int card;
             cin >> card;
             poker[card-1]++;
-            if(poker[card-1]<p&&poker[card-1]*13<=n){
+            if(poker[card-1]<p&&poker[card-1]*52<=n){
                 p=poker[card-1];
             }
             big=max(big,poker[card-1]);
