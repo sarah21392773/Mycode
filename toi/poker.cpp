@@ -19,9 +19,6 @@ int main(){
         if (p==500) p=0;
         int more=0;
         for(int i=0;i<52;i++){
-            if(poker[i]>p){
-//                cout << poker[i] << " " << p << endl;
-            }
             more+=big-poker[i];
         }
         cout << p << " " << more << endl;
