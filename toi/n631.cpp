@@ -9,13 +9,13 @@ int main(){
             int card;
             cin >> card;
             poker[card-1]++;
-            if(poker[card-1]<p&&poker[card-1]*52<=n){
-                p=poker[card-1];
-            }
-            big=max(big,poker[card-1]);
-//            cout << p << endl;
         }
-//        cout << big << endl;
+        for(int i=0;i<52;i++){
+            if(poker[i]<p&&poker[i]*52<=n){
+                p=poker[i];
+            }
+            big=max(big,poker[i]);
+        }
         if (p==500) p=0;
         int more=0;
         for(int i=0;i<52;i++){
