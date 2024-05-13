@@ -12,22 +12,16 @@ int main(){
             for(int j=0;j<M[i];j++){
                 int goods;
                 cin >> goods;
-                for(int k=0;k<K;k++){
-                    if(goods==R[k]) popularity[i]++;
-                }
+                popularity[i]+=count(R,R + K,goods);
             }
             if(popularity[i]<ans.second){
                 ans.second=popularity[i];
                 ans.first=i+1;
             }
-//            cout << "shop" << i << ":" << popularity[i] << endl;
         }
         pair<int,int> a={-1,0};
         for(int i=0;i<K;i++){
-            int num=0;
-            for(int j=0;j<K;j++){
-                if(R[i]==R[j]) num++;
-            }
+            int num=count(R,R+K,R[i]);
             if(num>a.second){
                 a.first=R[i];
                 a.second=num;
