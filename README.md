@@ -39,7 +39,7 @@
 
 - [x] [n631. 撲克 (Poker)](https://zerojudge.tw/ShowProblem?problemid=n361)　　　　　　　　　　　<sub>2024/4/29~2024/5/11</sub>
 
-- [ ] [n632. 熱門商品 (Commodity)](https://zerojudge.tw/ShowProblem?problemid=n632)　　　　　　　<sub>2024/4/29~</sub>
+- [x] [n632. 熱門商品 (Commodity)](https://zerojudge.tw/ShowProblem?problemid=n632)　　　　　　　<sub>2024/4/29~2024/5/15</sub>
 
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
