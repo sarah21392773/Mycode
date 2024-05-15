@@ -4,13 +4,15 @@ int main(){
     int K,N;
     while(cin >> K >> N){
         pair<int,int> shop={-1,1000},product={-1,0};
-        int R[K]={0},M[N]={0};
+        map<int,int> R;
+        int M[N]={0};
         for(int i=0;i<K;i++){
-            cin >> R[i];
-            int num=count(R,R+K,R[i]);
-            if(num>product.second){
-                product.first=R[i];
-                product.second=num;
+            int goods;
+            cin >> goods;
+            R[goods]++;
+            if(R[goods]>product.second){
+                product.first=goods;
+                product.second=R[goods];
             }
         }
         for(int i=0;i<N;i++) cin >> M[i];
@@ -19,7 +21,7 @@ int main(){
             for(int j=0;j<M[i];j++){
                 int goods;
                 cin >> goods;
-                popularity+=count(R , R + K , goods);
+                popularity+=R[goods];
             }
             if(popularity<shop.second){
                 shop.second=popularity;
@@ -30,3 +32,4 @@ int main(){
     }
 return 0;
 }
+
