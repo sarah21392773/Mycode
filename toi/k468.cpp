@@ -43,3 +43,6 @@ int main(){
 
 return 0;
 }
+
+// for迴圈版本(還有map):
+// https://github.com/ALavender08/112-2_Code/blob/main/TOI/k468_%E6%89%93%E9%9D%B6(Target).cpp
