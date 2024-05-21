@@ -31,7 +31,7 @@
 
 - [x] [n362. 質數遊戲 (Primes)](https://zerojudge.tw/ShowProblem?problemid=n362)　　　　　　　　　<sub>2024/3/21~2024/3/27</sub>
 
-- [ ] [k468.	打靶 (Target)](https://zerojudge.tw/ShowProblem?problemid=k468)　　　　　　　　　　　<sub>2024/3/23~</sub>
+- [x] [k468.	打靶 (Target)](https://zerojudge.tw/ShowProblem?problemid=k468)　　　　　　　　　　　<sub>2024/3/23~2024/5/21</sub>
 
 - [x] [e808. 不再傻傻等公車 (Bus)](https://zerojudge.tw/ShowProblem?problemid=e808)　　　　　　　<sub>2024/3/24~2024/3/24</sub>
 
