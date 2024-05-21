@@ -32,7 +32,7 @@ int main(){
                 }
 
             }
-            if(s==S || now==N){
+            if(s>=S || now==N){
                 break;      //達成目標時，就break掉
             }
             now++;                  //移動至下一標靶
