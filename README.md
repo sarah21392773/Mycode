@@ -131,6 +131,8 @@
 
 - [ ] [hwsh_a319.	小妮爬樓梯（連續次數上限版）](https://judge.hwsh.tc.edu.tw/ShowProblem?problemid=a319)　　　　　　　　<sub></sub>
 
+- [ ] [c833. 第四題：二維陣列](https://zerojudge.tw/ShowProblem?problemid=c833)　　　　　　　　<sub></sub>
+
 </details>
 
 > [!NOTE]
