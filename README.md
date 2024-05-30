@@ -123,6 +123,8 @@
 
 - [x] [b184. 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184)　　　　　　　　　　<sub>2024/4/17~2024/4/17</sub>
 
+- [x] [c833. 第四題：二維陣列](https://zerojudge.tw/ShowProblem?problemid=c833)　　　　　　　　<sub>2024/5/23~2024/5/30</sub>
+
 - [ ] [k184. 房屋推薦](https://zerojudge.tw/ShowProblem?problemid=k184)　　　　　　　　　　　　<sub></sub>
 
 - [ ] [d237.	質數合](https://zerojudge.tw/ShowProblem?problemid=d237)　　　　　　　　<sub></sub>
@@ -131,7 +133,6 @@
 
 - [ ] [hwsh_a319.	小妮爬樓梯（連續次數上限版）](https://judge.hwsh.tc.edu.tw/ShowProblem?problemid=a319)　　　　　　　　<sub></sub>
 
-- [ ] [c833. 第四題：二維陣列](https://zerojudge.tw/ShowProblem?problemid=c833)　　　　　　　　<sub></sub>
 
 </details>
 
