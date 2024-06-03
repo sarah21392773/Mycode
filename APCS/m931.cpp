@@ -13,17 +13,22 @@ int main(){
         Player player;
         cin >> player.attack >> player.protection;
         player.ability=pow(player.attack,2)+pow(player.protection,2);
-        if(player.ability>Second.ability){
+        if(player.ability>First.ability){
             if(player.ability>First.ability){
+                if(Second.ability==0){
+                    Second.ability=player.ability;
+                    Second.attack=player.attack;
+                    Second.protection=player.protection;
+                }
                 First.ability=player.ability;
                 First.attack=player.attack;
                 First.protection=player.protection;
             }
-            else{
-                Second.ability=player.ability;
-                Second.attack=player.attack;
-                Second.protection=player.protection;
-            }
+        }
+        else if(player.ability>Second.ability){
+            Second.ability=player.ability;
+            Second.attack=player.attack;
+            Second.protection=player.protection;
         }
     }
     cout << Second.attack << " " << Second.protection;
