@@ -67,7 +67,9 @@
 
 - [ ] [b965. 2. 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)　　　　　　　　　　　<sub>2024/4/20~</sub> 
 
-- [x] [h081. 2. 程式交易](https://zerojudge.tw/ShowProblem?problemid=h081)　　　　　　　　　　　<sub>2024/5/2~2024/5/2</sub> 
+- [x] [h081. 2. 程式交易](https://zerojudge.tw/ShowProblem?problemid=h081)　　　　　　　　　　　<sub>2024/5/2~2024/5/2</sub>
+
+- [x] [m931. 1. 遊戲選角](https://zerojudge.tw/ShowProblem?problemid=m931)　　　　　　　　　　　<sub>2024/6/3~2024/6/3</sub>
 
 - [ ] [c575. 4. 基地台](https://zerojudge.tw/ShowProblem?problemid=c575)　　　　　　　　　　　　　<sub></sub>
 
