@@ -41,6 +41,8 @@
 
 - [x] [n632. 熱門商品 (Commodity)](https://zerojudge.tw/ShowProblem?problemid=n632)　　　　　　　<sub>2024/4/29~2024/5/15</sub>
 
+- [x] [k466. 成績分析 (Analysis)](https://zerojudge.tw/ShowProblem?problemid=k466)　　　　　　　　　<sub>2024/6/6~2024/6/6</sub>
+
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
 </details>
