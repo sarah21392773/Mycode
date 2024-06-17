@@ -73,6 +73,12 @@
 
 - [x] [m931. 1. 遊戲選角](https://zerojudge.tw/ShowProblem?problemid=m931)　　　　　　　　　　　<sub>2024/6/3~2024/6/3</sub>
 
+- [x] [o076. 1. 特技表演](https://zerojudge.tw/ShowProblem?problemid=o076)　　　　　　　　　　　<sub>2024/6/16~2024/6/16</sub>
+
+- [x] [o077. 2. 電子畫布](https://zerojudge.tw/ShowProblem?problemid=o077)　　　　　　　　　　　<sub>2024/6/16~2024/6/16</sub>
+
+- [ ] [o078. 3. 缺字問題](https://zerojudge.tw/ShowProblem?problemid=o078)　　　　　　　　　　　<sub>2024/6/16~</sub>
+
 - [ ] [c575. 4. 基地台](https://zerojudge.tw/ShowProblem?problemid=c575)　　　　　　　　　　　　　<sub></sub>
 
 - [ ] [i401. 3. 雷射測試](https://zerojudge.tw/ShowProblem?problemid=i401)　　　　　　　　　　　<sub></sub>
