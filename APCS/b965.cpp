@@ -5,106 +5,112 @@ int main(){
     int R,C,M;
     cin >> R >> C >> M;
     int a[R][C],b[C][R];
-    char a_or_b='a';
+    char rect='a';
     for(int i=0;i<R;i++){
         for(int j=0;j<C;j++){
             cin >> a[i][j];
+            b[j][i]=0;
         }
     }
-
     for(int i=0;i<M;i++){
-        int movement;
-        cin >> movement;
-        if(movement==1){
-            if(a_or_b=='a'){
-                int tem[R][C];
-                for(int j=0;j<R;j++){
-                    for(int k=0;k<C;k++){
-                        tem[k][j]=a[C-k-1][j];
+        int m;
+        cin >> m;
+        //旋轉 0
+        if(m==0){
+            if(rect=='a'){
+                for(int i=0;i<R;i++){
+                    for(int j=0;j<C;j++){
+                        b[j][R-i-1]=a[i][j];
                     }
                 }
-                for(int j=0;j<R;j++){
-                    for(int k=0;k<C;k++){
-                        a[k][j]=tem[k][j];
+                rect='b';
+            }
+            else{
+                for(int i=0;i<C;i++){
+                    for(int j=0;j<R;j++){
+                        a[j][C-i-1]=b[i][j];
+                    }
+                }
+                rect='a';
+            }
+        }
+        //翻轉 1
+        else{
+            if(rect=='a'){
+                int tem[R][C];
+                for(int i=0;i<R;i++){
+                    for(int j=0;j<C;j++){
+                        tem[i][j]=a[R-1-i][j];
+                    }
+                }
+                for(int i=0;i<R;i++){
+                    for(int j=0;j<C;j++){
+                        a[i][j]=tem[i][j];
                     }
                 }
             }
             else{
                 int tem[C][R];
+                for(int i=0;i<C;i++){
+                    for(int j=0;j<R;j++){
+                        tem[i][j]=b[C-1-i][j];
+                    }
+                }
+                for(int i=0;i<C;i++){
+                    for(int j=0;j<R;j++){
+                        b[i][j]=tem[i][j];
+                    }
+                }
+            }
+        }
+        /*
+        //輸出
+        if(rect=='a'){
+            cout << "a" << endl;
+            for(int i=0;i<R;i++){
                 for(int j=0;j<C;j++){
-                    for(int k=0;k<R;k++){
-                        tem[k][j]=b[R-k-1][j];
-                    }
+                    cout << a[i][j] << " ";
                 }
-                for(int j=0;j<R;j++){
-                    for(int k=0;k<C;k++){
-                        b[j][i]=tem[j][i];
-                    }
-                }
+                cout << endl;
             }
         }
         else{
-            if(a_or_b=='a'){
-                a_or_b='b';
+            cout << "b" << endl;
+            for(int i=0;i<C;i++){
                 for(int j=0;j<R;j++){
-                    for(int k=0;k<C;k++){
-                        b[k][j]=a[j][C-k-1];
-                    }
+                    cout << b[i][j] << " ";
                 }
+                cout << endl;
             }
-            else{
-                a_or_b='a';
-                for(int j=0;j<C;j++){
-                    for(int k=0;k<R;k++){
-                        a[j][k]=b[R-k-1][j];
-                    }
-                }
-            }
-
-        }
-    if(a_or_b=='a'){
-        for(int i=0;i<R;i++){
-            for(int j=0;j<C;j++){
-                cout << a[i][j] << " ";
-            }
-            cout << endl;
-        }
-    }
-    else{
-        for(int i=0;i<C;i++){
-            for(int j=0;j<R;j++){
-                cout << b[i][j] << " ";
-            }
-            cout << endl;
-        }
-    }
-    cout << endl;
-
-    }
-    if(a_or_b=='a'){
-        for(int i=0;i<R;i++){
-            for(int j=0;j<C;j++){
-                cout << a[i][j] << " ";
-            }
-            cout << endl;
-        }
-    }
-    else{
-        for(int i=0;i<C;i++){
-            for(int j=0;j<R;j++){
-                cout << b[i][j] << " ";
-            }
-            cout << endl;
-        }
-    }
-
-/*
-    for(int i=0;i<R;i++){
-        for(int j=0;j<C;j++){
-            cout << a[i][j];
         }
         cout << endl;
+        //
+    */
     }
-*/
+    //輸出
+    if(rect=='a'){
+        cout << R << " " << C << endl;
+        for(int i=0;i<R;i++){
+            for(int j=0;j<C;j++){
+                cout << a[i][j];
+                if(j!=C-1){
+                    cout << " ";
+                }
+            }
+            cout << endl;
+        }
+    }
+    else{
+        cout << C << " " << R << endl;
+        for(int i=0;i<C;i++){
+            for(int j=0;j<R;j++){
+                cout << b[i][j];
+                if(j!=R-1){
+                    cout << " ";
+                }
+            }
+            cout << endl;
+        }
+    }
 return 0;
 }
