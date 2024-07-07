@@ -51,6 +51,10 @@
 <details>
 <summary> 戳我 </summary>
   
+- [x] [m370. 1. 機械鼠](https://zerojudge.tw/ShowProblem?problemid=m370)　　　　　　　　　　　　<sub>2023/11/9~2023/11/16</sub>
+
+- [x] [m371. 2. 卡牌遊戲](https://zerojudge.tw/ShowProblem?problemid=m371)　　　　　　　　　　<sub>2023/12/30~2023/12/30</sub>
+
 - [x] [c290. 1.	秘密差](https://zerojudge.tw/ShowProblem?problemid=c290)　　　　　　　　　　　　<sub>2024/3/20~2024/3/23</sub>
 
 - [x] [e289. 3. 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)　　　　　　　　　　<sub>2024/3/23~2024/4/27</sub>
