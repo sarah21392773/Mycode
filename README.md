@@ -63,7 +63,7 @@
 
 - [x] [f580. 2. 骰子](https://zerojudge.tw/ShowProblem?problemid=f580)　　　　　　　　　　　　　<sub>2024/3/28~2024/3/29</sub>
 
-- [x] [g276. 2. 魔王迷宮](https://zerojudge.tw/ShowProblem?problemid=g276)　　　　　　　　　　　<sub>2024/3/28~</sub>
+- [x] [g276. 2. 魔王迷宮](https://zerojudge.tw/ShowProblem?problemid=g276)　　　　　　　　　　　<sub>2024/3/28~2024/7/7</sub>
 
 - [x]  [b966. 3. 線段覆蓋長度](https://zerojudge.tw/ShowProblem?problemid=b966)　　　　　　　　　<sub>2024/4/6~2024/4/6</sub>
 
