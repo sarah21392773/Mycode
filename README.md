@@ -51,7 +51,7 @@
 <details>
 <summary> 戳我 </summary>
   
-- [x] [m370. 1. 機械鼠](https://zerojudge.tw/ShowProblem?problemid=m370)　　　　　　　　　　　　<sub>2023/11/9~2023/11/16</sub>
+- [x] [m370. 1. 機械鼠](https://zerojudge.tw/ShowProblem?problemid=m370)　　　　　　　　　　　<sub>2023/11/9~2023/11/16</sub>
 
 - [x] [m371. 2. 卡牌遊戲](https://zerojudge.tw/ShowProblem?problemid=m371)　　　　　　　　　　<sub>2023/12/30~2023/12/30</sub>
 
@@ -63,7 +63,7 @@
 
 - [x] [f580. 2. 骰子](https://zerojudge.tw/ShowProblem?problemid=f580)　　　　　　　　　　　　　<sub>2024/3/28~2024/3/29</sub>
 
-- [ ] [g276. 2. 魔王迷宮](https://zerojudge.tw/ShowProblem?problemid=g276)　　　　　　　　　　　<sub>2024/3/28~</sub>
+- [x] [g276. 2. 魔王迷宮](https://zerojudge.tw/ShowProblem?problemid=g276)　　　　　　　　　　　<sub>2024/3/28~</sub>
 
 - [x]  [b966. 3. 線段覆蓋長度](https://zerojudge.tw/ShowProblem?problemid=b966)　　　　　　　　　<sub>2024/4/6~2024/4/6</sub>
 
