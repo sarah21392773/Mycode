@@ -43,6 +43,8 @@
 
 - [x] [k466. 成績分析 (Analysis)](https://zerojudge.tw/ShowProblem?problemid=k466)　　　　　　　　　<sub>2024/6/6~2024/6/6</sub>
 
+- [ ] [k253. 成績分析 (Analysis)](https://zerojudge.tw/ShowProblem?problemid=k253)　　　　　　　　　<sub>2024/7/25~</sub>
+
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
 </details>
