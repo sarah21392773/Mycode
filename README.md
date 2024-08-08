@@ -143,6 +143,8 @@
 
 - [x] [c833. 第四題：二維陣列](https://zerojudge.tw/ShowProblem?problemid=c833)　　　　　　　　<sub>2024/5/23~2024/5/30</sub>
 
+- [x] [d637. 路過的鴨duck](https://zerojudge.tw/ShowProblem?problemid=d637)　　　　　　　　<sub>2024/7/28~2024/8/8</sub>
+
 - [ ] [k184. 房屋推薦](https://zerojudge.tw/ShowProblem?problemid=k184)　　　　　　　　　　　　<sub></sub>
 
 - [ ] [d237.	質數合](https://zerojudge.tw/ShowProblem?problemid=d237)　　　　　　　　<sub></sub>
