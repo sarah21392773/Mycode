@@ -45,6 +45,8 @@
 
 - [ ] [k253. 成績分析 (Analysis)](https://zerojudge.tw/ShowProblem?problemid=k253)　　　　　　　　　<sub>2024/7/25~</sub>
 
+- [x] [f818. 物競天擇 (Survival)](https://zerojudge.tw/ShowProblem?problemid=f818)　　　　　　　　　<sub>2024/8/10~2024/8/10</sub>
+
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
 </details>
