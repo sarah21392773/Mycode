@@ -47,6 +47,8 @@
 
 - [x] [f818. 物競天擇 (Survival)](https://zerojudge.tw/ShowProblem?problemid=f818)　　　　　　　　　<sub>2024/8/10~2024/8/10</sub>
 
+- [x] [f819. 圖書館 (Library)](https://zerojudge.tw/ShowProblem?problemid=f819)　　　　　　　　　<sub>2024/8/10~2024/8/10</sub>
+
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
 </details>
