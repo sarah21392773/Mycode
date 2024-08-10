@@ -151,6 +151,8 @@
 
 - [x] [d637. 路過的鴨duck](https://zerojudge.tw/ShowProblem?problemid=d637)　　　　　　　　<sub>2024/7/28~2024/8/8</sub>
 
+- [x] [a587. 祖靈好孝順 ˋˇˊ](https://zerojudge.tw/ShowProblem?problemid=a587)　　　　　　　　<sub>2024/8/9~2024/8/9</sub>
+
 - [ ] [k184. 房屋推薦](https://zerojudge.tw/ShowProblem?problemid=k184)　　　　　　　　　　　　<sub></sub>
 
 - [ ] [d237.	質數合](https://zerojudge.tw/ShowProblem?problemid=d237)　　　　　　　　<sub></sub>
