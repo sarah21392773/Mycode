@@ -49,6 +49,52 @@
 
 - [x] [f819. 圖書館 (Library)](https://zerojudge.tw/ShowProblem?problemid=f819)　　　　　　　　　<sub>2024/8/10~2024/8/10</sub>
 
+- [ ] [f820. 極限運動 (Sports)](https://zerojudge.tw/ShowProblem?problemid=f820)　　　　　　　　　　　<sub>2024/8/10~</sub>
+
+- [x] [m397. 烤肉 (BBQ)](https://zerojudge.tw/ShowProblem?problemid=m397)　　　　　　　　　<sub>2024/8/12~2024/8/12</sub>
+
+- [x] [e623. 2. PPAP](https://zerojudge.tw/ShowProblem?problemid=e623)　　　　　　　　　<sub>2024/8/13~2024/8/13</sub>
+
+- [x] [h659. 計程車 (Taxi)](https://zerojudge.tw/ShowProblem?problemid=h659)　　　　　　　　　<sub>2024/8/13~2024/8/13</sub>
+
+- [x] [f708. 蟲蟲危機 (Insect)](https://zerojudge.tw/ShowProblem?problemid=f708)　　　　　　　　　<sub>2024/8/13~2024/8/13</sub>
+
+- [x] [g497. 電梯 (Elevator)](https://zerojudge.tw/ShowProblem?problemid=g497)　　　　　　　　　<sub>2024/8/13~2024/8/13</sub>
+
+- [x] [h658. 捕魚 (Fishing)](https://zerojudge.tw/ShowProblem?problemid=h658)　　　　　　　　　<sub>2024/8/13~2024/8/13</sub>
+
+- [x] [j178. 手遊廣告 (Advertisement)](https://zerojudge.tw/ShowProblem?problemid=j178)　　　　　　　　　<sub>2024/8/13~2024/8/13</sub>
+
+- [x] [f043. 1. 小豪的回家作業 (Homework)](https://zerojudge.tw/ShowProblem?problemid=f043)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [f373. 週年慶 Anniversary](https://zerojudge.tw/ShowProblem?problemid=f373)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [f706. 時區 (Zone)](https://zerojudge.tw/ShowProblem?problemid=f706)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [f707. 幸運 7 (Lucky Seven)](https://zerojudge.tw/ShowProblem?problemid=f707)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [g498. 兔子跳躍 (Rabbit)](https://zerojudge.tw/ShowProblem?problemid=g498)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [j180. 戰備存糧 (Food)](https://zerojudge.tw/ShowProblem?problemid=j180)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [l918. P1. 彈珠汽水 (Soda)](https://zerojudge.tw/ShowProblem?problemid=l918)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [e794. p1.黃金比例](https://zerojudge.tw/ShowProblem?problemid=e794)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [k924. P1. 數字結合 (Combination)](https://zerojudge.tw/ShowProblem?problemid=k924)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [g496. 彗星列車 (Comet)](https://zerojudge.tw/ShowProblem?problemid=g496)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [e798. p5. 卷積神經網路](https://zerojudge.tw/ShowProblem?problemid=e798)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [f513. 舉旗遊戲 (Flag)](https://zerojudge.tw/ShowProblem?problemid=f513)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [k398. 密室逃脫 (Escape)](https://zerojudge.tw/ShowProblem?problemid=k398)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [i376. 尋寶 (Treasure)](https://zerojudge.tw/ShowProblem?problemid=i376)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [f149. 3. 炸彈偵測器 (Detector)](https://zerojudge.tw/ShowProblem?problemid=f149)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
 </details>
@@ -92,6 +138,24 @@
 - [x] [k731. 1. 路徑偵測](https://zerojudge.tw/ShowProblem?problemid=k731)　　　　　　　　　　　<sub>2024/7/7~2024/7/7</sub>
 
 - [x] [j606. 2. 造字程式](https://zerojudge.tw/ShowProblem?problemid=j606)　　　　　　　　　　　<sub>2024/8/10~2024/8/10</sub>
+
+- [x] [c294. 1. 三角形辨別](https://zerojudge.tw/ShowProblem?problemid=c294)　　　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [c461. apcs 邏輯運算子 (Logic Operators)](https://zerojudge.tw/ShowProblem?problemid=c461)　　　　　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [e286. 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
+
+- [x] [f579. 1. 購物車](https://zerojudge.tw/ShowProblem?problemid=f579)　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
+
+- [x] [g595. 1. 修補圍籬](https://zerojudge.tw/ShowProblem?problemid=g595)　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
+
+- [x] [b964. 1. 成績指標](https://zerojudge.tw/ShowProblem?problemid=b964)　　　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
+
+- [x] [e313. 最少相異字母](https://zerojudge.tw/ShowProblem?problemid=e313)　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
+
+- [x] [e287. 機器人的路徑](https://zerojudge.tw/ShowProblem?problemid=e287)　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
+
+- [x] [f313. 2. 人口遷移](https://zerojudge.tw/ShowProblem?problemid=f313)　　　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
 
 - [ ] [c575. 4. 基地台](https://zerojudge.tw/ShowProblem?problemid=c575)　　　　　　　　　　　　　<sub></sub>
 
@@ -151,7 +215,105 @@
 
 - [x] [d637. 路過的鴨duck](https://zerojudge.tw/ShowProblem?problemid=d637)　　　　　　　　<sub>2024/7/28~2024/8/8</sub>
 
-- [x] [a587. 祖靈好孝順 ˋˇˊ](https://zerojudge.tw/ShowProblem?problemid=a587)　　　　　　　　<sub>2024/8/9~2024/8/9</sub>
+- [x] [a587. 祖靈好孝順 ˋˇˊ](https://zerojudge.tw/ShowProblem?problemid=a587)　　　　　　　　<sub>2024/8/8~2024/8/8</sub>
+
+- [x] [f345. 新手練習題—陣列](https://zerojudge.tw/ShowProblem?problemid=f345)　　　　　　　　<sub>2024/8/8~2024/8/8</sub>
+
+- [x] [d073. 分組報告](https://zerojudge.tw/ShowProblem?problemid=d073)　　　　　　　　　　　　<sub>2024/8/12~8/16</sub>
+
+- [x] [a006. 一元二次方程式](https://zerojudge.tw/ShowProblem?problemid=a006)　　　　　　　　　　　　<sub>2024/8/12~8/12</sub>
+
+- [x] [d491. 我也愛偶數 (swap 版)](https://zerojudge.tw/ShowProblem?problemid=d491)　　　　　　　　<sub>2024/8/15~2024/8/15</sub>
+
+- [x] [c316. 最遠點對！前傳](https://zerojudge.tw/ShowProblem?problemid=c316)　　　　　　　　<sub>2024/8/15~2024/8/15</sub>
+
+- [x] [e924. pC. 括號配對](https://zerojudge.tw/ShowProblem?problemid=e924)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [c123. 00514 - Rails](https://zerojudge.tw/ShowProblem?problemid=c123)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a053. Sagit's 計分程式](https://zerojudge.tw/ShowProblem?problemid=a053)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d511. 小明的作業](https://zerojudge.tw/ShowProblem?problemid=d511)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [g779. 小億老師的幸運數字](https://zerojudge.tw/ShowProblem?problemid=g779)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d067. 格瑞哥里的煩惱 (1 行版)](https://zerojudge.tw/ShowProblem?problemid=d067)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d069. 格瑞哥里的煩惱 (t 行版)](https://zerojudge.tw/ShowProblem?problemid=d069)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d070. 格瑞哥里的煩惱 (0 尾版)](https://zerojudge.tw/ShowProblem?problemid=d070)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d071. 格瑞哥里的煩惱 (EOF 版)](https://zerojudge.tw/ShowProblem?problemid=d071)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d072. 格瑞哥里的煩惱 (Case 版)](https://zerojudge.tw/ShowProblem?problemid=d072)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a024. 最大公因數(GCD)](https://zerojudge.tw/ShowProblem?problemid=a024)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a040. 阿姆斯壯數](https://zerojudge.tw/ShowProblem?problemid=a040)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a059. 完全平方和](https://zerojudge.tw/ShowProblem?problemid=a059)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a148. You Cannot Pass?!](https://zerojudge.tw/ShowProblem?problemid=a148)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [b294. 經濟大恐荒](https://zerojudge.tw/ShowProblem?problemid=b294)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [c013. 00488 - Triangle Wave ](https://zerojudge.tw/ShowProblem?problemid=c013)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a022. 迴文](https://zerojudge.tw/ShowProblem?problemid=a022)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d049. 中華民國萬歲！](https://zerojudge.tw/ShowProblem?problemid=d049)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d058. BASIC 的 SGN 函數](https://zerojudge.tw/ShowProblem?problemid=d070)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d010. 盈數、虧數和完全數](https://zerojudge.tw/ShowProblem?problemid=d010)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [e343. BMI 計算](https://zerojudge.tw/ShowProblem?problemid=e343)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d051. 糟糕，我發燒了！](https://zerojudge.tw/ShowProblem?problemid=d051)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a004. 文文的求婚](https://zerojudge.tw/ShowProblem?problemid=a004)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d532. 文文的求婚 (三)](https://zerojudge.tw/ShowProblem?problemid=d532)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [e533. 11942 - Lumberjack Sequencing](https://zerojudge.tw/ShowProblem?problemid=e533)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a799. 正值國](https://zerojudge.tw/ShowProblem?problemid=a799)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [c435. MAX ! MAX ! MAX !](https://zerojudge.tw/ShowProblem?problemid=c435)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [k026. 中位數](https://zerojudge.tw/ShowProblem?problemid=k026)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [c508. 去蟲](https://zerojudge.tw/ShowProblem?problemid=c508)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d817. Pascal's triangle's secret (I)](https://zerojudge.tw/ShowProblem?problemid=d817)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [g488. COVID-101](https://zerojudge.tw/ShowProblem?problemid=g488)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [e357. 遞迴函數練習](https://zerojudge.tw/ShowProblem?problemid=e357)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [b877. 我是電視迷](https://zerojudge.tw/ShowProblem?problemid=b877)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d063. 0 與 1](https://zerojudge.tw/ShowProblem?problemid=d063)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d827. 買鉛筆](https://zerojudge.tw/ShowProblem?problemid=d827)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d483. hello, world](https://zerojudge.tw/ShowProblem?problemid=d483)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d126. 一、牧场围栏](https://zerojudge.tw/ShowProblem?problemid=d126)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d050. 妳那裡現在幾點了？](https://zerojudge.tw/ShowProblem?problemid=d050)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [d507. 三角形的判斷](https://zerojudge.tw/ShowProblem?problemid=d507)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a009. 解碼器](https://zerojudge.tw/ShowProblem?problemid=a009)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a224. 明明愛明明](https://zerojudge.tw/ShowProblem?problemid=a224)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a015. 矩陣的翻轉](https://zerojudge.tw/ShowProblem?problemid=a015)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [x] [a227. 三龍杯 -> 河內之塔 ](https://zerojudge.tw/ShowProblem?problemid=a227)　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+
+- [ ] [b936. Kevin 愛橘子](https://zerojudge.tw/ShowProblem?problemid=b936)　　　　　　　　<sub>2024/8/17~</sub>
 
 - [ ] [k184. 房屋推薦](https://zerojudge.tw/ShowProblem?problemid=k184)　　　　　　　　　　　　<sub></sub>
 
