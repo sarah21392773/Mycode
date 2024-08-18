@@ -123,7 +123,7 @@
 
 - [ ] [j123. 2. 運貨站](https://zerojudge.tw/ShowProblem?problemid=j123)　　　　　　　　　　　　<sub>2024/4/18~</sub>
 
-- [ ] [b965. 2. 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)　　　　　　　　　　　<sub>2024/4/20~</sub> 
+- [x] [b965. 2. 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)　　　　　　　　　　　<sub>2024/4/20~2024/8/19</sub> 
 
 - [x] [h081. 2. 程式交易](https://zerojudge.tw/ShowProblem?problemid=h081)　　　　　　　　　　　<sub>2024/5/2~2024/5/2</sub>
 
