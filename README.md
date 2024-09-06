@@ -170,8 +170,6 @@
 ## APCS練習網:
 <details>
 <summary> 戳我 </summary>
-  
-- [ ] [礦坑 (Mine)](https://apcs-simulation.com/problem/apcs0303)　　　　　　　　　　　　　<sub>2024/4/3~</sub>
 
 - [ ] [a152: 二分搜尋](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a152)　　　　　　　　　　　　<sub>2024/4/7~</sub>
 
@@ -182,6 +180,19 @@
 - [ ] [a153: 二分法求解](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a153)　　　　　　　　　　　<sub></sub>
 
 </details>
+
+## ASOJ:
+<details>
+<summary> 戳我 </summary>
+  
+- [ ] [礦坑 (Mine)](https://apcs-simulation.com/problem/apcs0303)　　　　　　　　　　　　　<sub>2024/4/3~</sub>
+
+- [X] [遊戲 (Game)](https://apcs-simulation.com/problem/apcs0801)　　　　　　　　　　　　<sub>2024/8/31~2024/9/6</sub>
+
+- [X] [天旋地轉 (Spinning)](https://apcs-simulation.com/problem/apcs0802)　　　　　　　　　　　　<sub>2024/8/31~2024/8/31</sub>
+
+</details>
+
 
 ## 其他:
 <details>
