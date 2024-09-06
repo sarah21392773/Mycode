@@ -173,7 +173,9 @@
 
 - [ ] [a152: 二分搜尋](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a152)　　　　　　　　　　　　<sub>2024/4/7~</sub>
 
-- [ ] [a148: 字元頻率](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a148)　　　　　　　　　　　<sub></sub>
+- [X] [a051: 城市旅遊](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a051)　　　　　　　　　　　<sub>2024/9/6~2024/9/6</sub>
+
+- [X] [a102: 油田](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a102)　　　　　　　　　　　　<sub>2024/9/7~2024/9/7</sub>
 
 - [ ] [a109: 跑長編碼與資料壓縮](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a109)　　　　　　　　　　　　　<sub></sub>
 
