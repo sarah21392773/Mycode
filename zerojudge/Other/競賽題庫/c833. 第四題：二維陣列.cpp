@@ -2,11 +2,15 @@
 using namespace std;
 
 int main(){
-    ios::sync_with_stdio(0);cin.tie(0);
+
+    cin.sync_with_stdio(0);
+    cin.tie(0);
+
     int N,M;
     cin >> N >> M;
-    vector<vector<char>>filed;
-    map <int,bool> x,y;
+    vector<vector<char>>filed;  //要用vector不然會TLE
+    map <int,bool> x,y;          //紀錄哪幾行，哪幾列要輸出#
+    
     for(int i=0;i<N;i++){
         vector<char> row;
         for(int j=0;j<M;j++){
@@ -20,6 +24,7 @@ int main(){
         }
         filed.push_back(row);
     }
+    
     for(int i=0;i<N;i++){
         for(int j=0;j<M;j++){
             if(x[j]==true||y[i]==true){
