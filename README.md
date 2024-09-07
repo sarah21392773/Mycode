@@ -157,6 +157,8 @@
 
 - [x] [f313. 2. 人口遷移](https://zerojudge.tw/ShowProblem?problemid=f313)　　　　　　　　　　　　　<sub>2024/8/17~2024/8/17</sub>
 
+- [X] [c291. 2. 小群體](https://zerojudge.tw/ShowProblem?problemid=c291)　　　　　　　　　　　　<sub>2024/9/7~2024/9/7</sub>
+
 - [ ] [c575. 4. 基地台](https://zerojudge.tw/ShowProblem?problemid=c575)　　　　　　　　　　　　　<sub></sub>
 
 - [ ] [i401. 3. 雷射測試](https://zerojudge.tw/ShowProblem?problemid=i401)　　　　　　　　　　　<sub></sub>
