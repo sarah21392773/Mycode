@@ -177,6 +177,8 @@
 
 - [X] [a102: 油田](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a102)　　　　　　　　　　　　<sub>2024/9/7~2024/9/7</sub>
 
+- [X] [a103: 小群體](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a103)　　　　　　　　　　　　<sub>2024/9/7~2024/9/7</sub>
+
 - [ ] [a109: 跑長編碼與資料壓縮](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a109)　　　　　　　　　　　　　<sub></sub>
 
 - [ ] [a153: 二分法求解](https://apcsclass.csie.ntnu.edu.tw/ShowProblem?problemid=a153)　　　　　　　　　　　<sub></sub>
