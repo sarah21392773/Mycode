@@ -199,6 +199,18 @@
 
 </details>
 
+## Codeforces:
+<details>
+<summary> 戳我 </summary>
+
+- [X] [B. Three Brothers](https://codeforces.com/problemset/problem/2010/B)　　　　　　　　　　　　<sub>2024/9/14~2024/9/14</sub>
+  
+- [X] [A. Alternating Sum of Numbers](https://codeforces.com/problemset/problem/2010/A)　　　　　<sub>2024/9/14~2024/9/14</sub>
+
+- [X] [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A)　　　　　　　　　　　　<sub>2024/9/14~2024/9/14</sub>
+
+</details>
+
 
 ## 其他:
 <details>
