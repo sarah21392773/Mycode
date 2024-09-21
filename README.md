@@ -209,6 +209,8 @@
 
 - [X] [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A)　　　　　　　　　　　　<sub>2024/9/14~2024/9/14</sub>
 
+- [X] [A. Problem Generator](https://codeforces.com/contest/1980/problem/A)　　　　　　　　　　　　<sub>2024/9/21~2024/9/21</sub>
+
 </details>
 
 
