@@ -95,9 +95,9 @@
 
 - [x] [f149. 3. 炸彈偵測器 (Detector)](https://zerojudge.tw/ShowProblem?problemid=f149)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
 
-- [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
+- [X] [k463. 破冰活動 (Icebreaker)](https://zerojudge.tw/ShowProblem?problemid=k463)　　　　　　　　　<sub>2024/10/2~2024/10/2</sub>
 
-- [ ] [k463. 破冰活動 (Icebreaker)](https://zerojudge.tw/ShowProblem?problemid=k463)　　　　　　　　　<sub>2024/10/2~</sub>
+- [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
 </details>
   
