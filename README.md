@@ -97,6 +97,8 @@
 
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
+- [ ] [k463. 破冰活動 (Icebreaker)](https://zerojudge.tw/ShowProblem?problemid=k463)　　　　　　　　　<sub>2024/10/2~</sub>
+
 </details>
   
 ## APCS題單:
