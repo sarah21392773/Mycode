@@ -95,17 +95,17 @@
 
 - [x] [f149. 3. 炸彈偵測器 (Detector)](https://zerojudge.tw/ShowProblem?problemid=f149)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
 
-- [x] [o578. 起司 (Cheese)](https://zerojudge.tw/ShowProblem?problemid=o578)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+- [x] [o578. 起司 (Cheese)](https://zerojudge.tw/ShowProblem?problemid=o578)　　　　　　　　　<sub>2024/10/1~2024/10/1</sub>
 
-- [x] [o579. 電動滑板車 (e-Scooter)](https://zerojudge.tw/ShowProblem?problemid=o579)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+- [x] [o579. 電動滑板車 (e-Scooter)](https://zerojudge.tw/ShowProblem?problemid=o579)　　　　　　　　　<sub>2024/10/1~2024/10/1</sub>
 
-- [X] [o580. 因數計算 (Factor)](https://zerojudge.tw/ShowProblem?problemid=o580)　　　　　　　　　<sub>2024/10/2~2024/10/2</sub>
+- [X] [o580. 因數計算 (Factor)](https://zerojudge.tw/ShowProblem?problemid=o580)　　　　　　　　　<sub>2024/10/1~2024/10/1</sub>
 
-- [ ] [o626. 檔案順序 (Files)](https://zerojudge.tw/ShowProblem?problemid=o626)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+- [ ] [o626. 檔案順序 (Files)](https://zerojudge.tw/ShowProblem?problemid=o626)　　　　　　　　　<sub>2024/10/1~</sub>
 
-- [ ] [o627. 校外教學分組 (Trip)](https://zerojudge.tw/ShowProblem?problemid=o627)　　　　　　　　　<sub>2024/8/16~2024/8/16</sub>
+- [ ] [o627. 校外教學分組 (Trip)](https://zerojudge.tw/ShowProblem?problemid=o627)　　　　　　　　　<sub>2024/10/1</sub>
 
-- [ ] [o628. 天秤 (Libra)](https://zerojudge.tw/ShowProblem?problemid=o628)　　　　　　　　　<sub>2024/10/2~2024/10/2</sub>
+- [ ] [o628. 天秤 (Libra)](https://zerojudge.tw/ShowProblem?problemid=o628)　　　　　　　　　<sub>2024/10/1</sub>
 
 - [X] [k463. 破冰活動 (Icebreaker)](https://zerojudge.tw/ShowProblem?problemid=k463)　　　　　　　　　<sub>2024/10/2~2024/10/2</sub>
 
