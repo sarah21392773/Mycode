@@ -173,6 +173,8 @@
 
 - [X] [c291. 2. 小群體](https://zerojudge.tw/ShowProblem?problemid=c291)　　　　　　　　　　　　<sub>2024/9/7~2024/9/7</sub>
 
+- [X] [h026. 1. 猜拳](https://zerojudge.tw/ShowProblem?problemid=h026)　　　　　　　　　　　　<sub>2024/10/18~2024/10/18</sub>
+
 - [ ] [c575. 4. 基地台](https://zerojudge.tw/ShowProblem?problemid=c575)　　　　　　　　　　　　　<sub></sub>
 
 - [ ] [i401. 3. 雷射測試](https://zerojudge.tw/ShowProblem?problemid=i401)　　　　　　　　　　　<sub></sub>
