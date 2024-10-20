@@ -175,6 +175,10 @@
 
 - [X] [h026. 1. 猜拳](https://zerojudge.tw/ShowProblem?problemid=h026)　　　　　　　　　　　　<sub>2024/10/18~2024/10/18</sub>
 
+- [X] [o711. 1. 裝飲料](https://zerojudge.tw/ShowProblem?problemid=o711)　　　　　　　　　　　　<sub>2024/10/20~2024/10/20</sub>
+
+- [X] [o712. 2. 蒐集寶石](https://zerojudge.tw/ShowProblem?problemid=o712)　　　　　　　　　　　　<sub>2024/10/20~2024/10/20</sub>
+
 - [ ] [c575. 4. 基地台](https://zerojudge.tw/ShowProblem?problemid=c575)　　　　　　　　　　　　　<sub></sub>
 
 - [ ] [i401. 3. 雷射測試](https://zerojudge.tw/ShowProblem?problemid=i401)　　　　　　　　　　　<sub></sub>
