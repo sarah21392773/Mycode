@@ -109,6 +109,12 @@
 
 - [X] [k463. 破冰活動 (Icebreaker)](https://zerojudge.tw/ShowProblem?problemid=k463)　　　　　　　　　<sub>2024/10/2~2024/10/2</sub>
 
+- [x] [o921. 生日快樂 (Birthday)](https://zerojudge.tw/ShowProblem?problemid=o921)　　　　　　　　　<sub>2024/11/14~2024/11/14</sub>
+
+- [X] [o922. 年貨大街 (Market)](https://zerojudge.tw/ShowProblem?problemid=o922)　　　　　　　　　<sub>2024/11/14~2024/11/14</sub>
+
+- [x] [o923. 陣列運算 (Array)](https://zerojudge.tw/ShowProblem?problemid=o923)　　　　　　　　　<sub>2024/11/14~2024/11/14</sub>
+
 - [x] [o926. 積木城堡 (Castle)](https://zerojudge.tw/ShowProblem?problemid=o926)　　　　　　　　　<sub>2024/11/14~2024/11/14</sub>
 
 - [X] [o927. 鐵路 (Rail)](https://zerojudge.tw/ShowProblem?problemid=o927)　　　　　　　　　<sub>2024/11/14~2024/11/14</sub>
