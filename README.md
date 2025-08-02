@@ -121,6 +121,8 @@
 
 - [ ] [o928. 入住旅館 (CheckIn)](https://zerojudge.tw/ShowProblem?problemid=o928)　　　　　　　　　<sub>2024/11/14~</sub>
 
+- [X] [k715. 糧食便道 (Supply)](https://zerojudge.tw/ShowProblem?problemid=k715)　　　　　　　　　　　<sub>2025/08/03</sub>
+
 - [ ] [f815.	遊戲升等](https://zerojudge.tw/ShowProblem?problemid=f815)　　　　　　　　　　　<sub></sub>
 
 </details>
