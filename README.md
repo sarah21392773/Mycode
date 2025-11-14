@@ -161,7 +161,7 @@
 
 - [x] [o077. 2. 電子畫布](https://zerojudge.tw/ShowProblem?problemid=o077)　　　　　　　　　　　<sub>2024/6/16~2024/6/16</sub>
 
-- [ ] [o078. 3. 缺字問題](https://zerojudge.tw/ShowProblem?problemid=o078)　　　　　　　　　　　<sub>2024/6/16~</sub>
+- [x] [o078. 3. 缺字問題](https://zerojudge.tw/ShowProblem?problemid=o078)　　　　　　　　　　　<sub>2024/6/16~2025/11/14</sub>
 
 - [x] [k731. 1. 路徑偵測](https://zerojudge.tw/ShowProblem?problemid=k731)　　　　　　　　　　　<sub>2024/7/7~2024/7/7</sub>
 
