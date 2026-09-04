@@ -195,6 +195,8 @@
 
 - [X] [m372. 3. 搬家](https://zerojudge.tw/ShowProblem?problemid=m372)　　　　　　　　　　　　<sub>2025/11/14~2025/11/14</sub>
 
+- [X] [s179. 1. 比例分割](https://zerojudge.tw/ShowProblem?problemid=s179)　　　　　　　　　　　　<sub>2026/09/04~2026/09/04</sub>
+
 - [ ] [c575. 4. 基地台](https://zerojudge.tw/ShowProblem?problemid=c575)　　　　　　　　　　　　　<sub></sub>
 
 - [ ] [i401. 3. 雷射測試](https://zerojudge.tw/ShowProblem?problemid=i401)　　　　　　　　　　　<sub></sub>
